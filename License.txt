@@ -1,4 +1,4 @@
-Copyright (c) 2013-2021 Dropbox Inc., http://www.dropbox.com/
+8f428bfe4d4d48b99fe70e32f9daea8cd85e2004Copyright (c) 2013-2021 Dropbox Inc., http://www.dropbox.com/
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
